@@ -23,8 +23,8 @@ client.on("ready", () => {
 
   console.log(` : `);
 });
-var prefix = "!";/////البريفيكس حقك
-var owners = "753321431374495744";//////الايدي حقك
+var prefix = "+";/////البريفيكس حقك
+var owners = "910482674915885077";//////الايدي حقك
 
 
 
@@ -71,8 +71,8 @@ client.on("message", async message => {
       ${prefix}obc
       ${prefix}ebc
       ـــــــــــــــــــــــــ
-      By : <@753321431374495744>
-[****]() **|** [**Support Server**](https://discord.gg/Ht77f7CPrr) 
+      By : <@910482674915885077>
+[****]() **|** [**Support Server**](https://discord.gg/GVbapGsPeR) 
       `)
     message.channel.sendEmbed(help);
   }
@@ -283,7 +283,7 @@ client.on("message", msg => {
   if (msg.content === `${prefix}support`) { 
 
 
-    msg.reply("https://discord.gg/RzywZTyYNj"); 
+    msg.reply("https://discord.gg/GVbapGsPeR"); 
   }
 })
 
