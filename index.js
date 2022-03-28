@@ -32,7 +32,7 @@ var owners = "910482674915885077";//////الايدي حقك
 /////Status
 client.on("ready", () => {
   console.log(`Logged in as : ${client.user.username}`);
-  client.user.setActivity(`b-C Arabian`);
+  client.user.setActivity(` 乄FØRCE`);
   client.user.setStatus("online");
 });
 
