@@ -10,7 +10,7 @@ app.use('/ping', (req, res) => {
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-var prefix = "1"; // تعديل مهم جدا
+var prefix = "!"; // تعديل مهم جدا
 var statuses = [` 乄FØRCE`, `ÄHMÈÐ 乄FØRCE`, `ᘔIᘔO`];
 var timers = 2;
 const owners = ["910482674915885077", "845032664435785728", "900800588265160785"];
